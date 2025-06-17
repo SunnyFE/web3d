@@ -1,0 +1,21 @@
+{
+  "name": "webgl-3d",
+  "version": "1.0.0",
+  "description": "A Vue 3 project for WebGL 3D applications",
+  "main": "src/main.ts",
+  "scripts": {
+    "serve": "vue-cli-service serve src/main.ts",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vue/cli-service": "^5.0.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "vue-loader": "^17.4.2",
+    "vue-tsc": "^2.2.10"
+  }
+}
